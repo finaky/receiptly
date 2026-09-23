@@ -2,18 +2,7 @@
 import { useEffect, useState } from "react";
 import { DetailReceipt } from "./details-receipt";
 import { ProductsReceipts } from "./products-receipt";
-
-export interface IProduct {
-  product: string;
-  price: number;
-}
-
-export interface IReceipt {
-  receiptName: string;
-  date: string;
-  totalCost: number;
-  products: IProduct[];
-}
+import { IReceipt } from "@/types/types";
 
 export const ListReceipts = () => {
   const [data, setData] = useState<IReceipt[]>([]);

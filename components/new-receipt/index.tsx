@@ -1,6 +1,6 @@
 "use client";
 
-import { Product } from "@/types/Product";
+import { Product } from "@/types/types";
 import { Save } from "@mui/icons-material";
 import { Button, TextField } from "@mui/material";
 import { useState } from "react";

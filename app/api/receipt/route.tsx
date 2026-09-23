@@ -1,4 +1,4 @@
-import { Product } from "@/types/Product";
+import { Product } from "@/types/types";
 import { promises as fs } from "fs";
 
 export async function POST(req: Request) {

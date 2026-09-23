@@ -1,5 +1,5 @@
 import { formatPrice } from "@/lib/format-price";
-import { Product } from "@/types/Product";
+import { Product } from "@/types/types";
 import { DeleteOutlineOutlined } from "@mui/icons-material";
 import { Dispatch, SetStateAction } from "react";
 
