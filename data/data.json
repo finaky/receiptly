@@ -1,0 +1,46 @@
+[
+  {
+    "receiptName": "das",
+    "date": "Wed Sep 23 2026",
+    "totalCost": 12,
+    "products": [
+      {
+        "product": "das",
+        "price": 12
+      }
+    ]
+  },
+  {
+    "receiptName": "dsa",
+    "date": "Wed Sep 23 2026",
+    "totalCost": 21,
+    "products": [
+      {
+        "product": "sa",
+        "price": 21
+      }
+    ]
+  },
+  {
+    "receiptName": "das",
+    "date": "Wed Sep 23 2026",
+    "totalCost": 3333,
+    "products": [
+      {
+        "product": "da",
+        "price": 3333
+      }
+    ]
+  },
+  {
+    "receiptName": "das",
+    "date": "Wed Sep 23 2026",
+    "totalCost": 12,
+    "products": [
+      {
+        "product": "a",
+        "price": 12
+      }
+    ]
+  }
+]
